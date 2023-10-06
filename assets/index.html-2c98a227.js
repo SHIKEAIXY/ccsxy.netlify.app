@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-146813d2","path":"/cjwt/","title":"问题","lang":"zh-CN","frontmatter":{"title":"问题","index":false,"icon":"laptop-code"},"headers":[{"level":2,"title":"作者均已摆烂 有能力的佬请务必pr","slug":"作者均已摆烂-有能力的佬请务必pr","link":"#作者均已摆烂-有能力的佬请务必pr","children":[]}],"git":{},"readingTime":{"minutes":0.08,"words":24},"filePathRelative":"cjwt/README.md"}');export{e as data};
